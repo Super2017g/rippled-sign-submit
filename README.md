@@ -1,4 +1,6 @@
 # rippled-sign-submit
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSuper2017g%2Frippled-sign-submit.svg?type=shield)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSuper2017g%2Frippled-sign-submit?ref=badge_shield)
+
 
 TLDR; A template ripple.yml file and a ruby script for signing and submitting Ripple transactions using rippled.
 
@@ -88,3 +90,6 @@ TLDR; A template ripple.yml file and a ruby script for signing and submitting Ri
   8.  Join the Ripple Community!
        
     Join us at the official Ripple forums!  https://forum.ripple.com/
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSuper2017g%2Frippled-sign-submit.svg?type=large)](https://app.fossa.io/projects/git%2Bhttps%3A%2F%2Fgithub.com%2FSuper2017g%2Frippled-sign-submit?ref=badge_large)
